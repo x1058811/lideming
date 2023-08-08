@@ -1,4 +1,5 @@
 name: Ubuntu
+on: [push]
 on:
   watch:
     types: started
